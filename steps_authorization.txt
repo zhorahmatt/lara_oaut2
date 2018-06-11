@@ -3,5 +3,11 @@ authorization that can be implement on :
     1. authorization code grant
 
     2. Password grant
+        -> untuk mobile app -> ios dan android app
 
     3. Implicit grant
+
+
+    - database yang digunakan mysql -> mengikuti bawaan laravel passport
+    - dengan satu table user yang akan berelasi dengan oauth passport
+    - tentukan model user yang akan menggunakan authorization dan jenisnya
