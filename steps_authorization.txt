@@ -1,0 +1,7 @@
+authorization that can be implement on :
+
+    1. authorization code grant
+
+    2. Password grant
+
+    3. Implicit grant
